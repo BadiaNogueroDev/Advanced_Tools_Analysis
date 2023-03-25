@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Grass
+  m_Shader: {fileID: 4800000, guid: 07deccab018b8034390669e4de7d11d4, type: 3}
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _WindDistortionMap:
+        m_Texture: {fileID: 2800000, guid: dfc5a2a9d3d70954394f136f0ec1c8c3, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _BendRotationRandom: 0.3
+    - _BladeCurve: 3
+    - _BladeForward: 0.2
+    - _BladeHeight: 0.5
+    - _BladeHeightRandom: 0.5
+    - _BladeWidth: 0.05
+    - _BladeWidthRandom: 0.05
+    - _TessellationUniform: 7
+    - _TrampleStrength: 0.6
+    - _TranslucentGain: 0.5
+    - _WindStrength: 0.2
+    m_Colors:
+    - _BottomColor: {r: 0.054334287, g: 0.3490566, b: 0.1447826, a: 1}
+    - _TopColor: {r: 0.45288345, g: 0.8962264, b: 0.080322154, a: 1}
+    - _Trample: {r: 27.88, g: 0.92, b: -6.49, a: 3}
+    - _WindFrequency: {r: 0.05, g: 0.05, b: 0, a: 0}
+  m_BuildTextureStacks: []
