@@ -12140,7 +12140,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: db97a481d6af47d49b0219c73086aa2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fileName: 10 Characters - Base Grass
+  fileName: 70 Characters - Wind 0.7
   grassShader: {fileID: 2100000, guid: 3b134cbf546be2e4aa8b6e45362b2bb0, type: 2}
 --- !u!114 &2077496888
 MonoBehaviour:
